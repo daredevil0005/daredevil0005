@@ -36,7 +36,8 @@
 
 ### 🌐 Web Projects
 
-* Business & booking system websites
+* Arcade games
+* Gemini clone
 * UI-focused applications
 
 ---
@@ -61,6 +62,7 @@
 * Upgrading Jarvis to smart AI assistant
 * Adding automation features
 * Building real-time applications
+* Building Cyber Security Projects
 
 ---
 
