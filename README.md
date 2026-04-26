@@ -1,31 +1,43 @@
 # Hi, I'm Pratik 👋
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Python+Enthusiast;Building+Jarvis+🤖" />
 
-🎓 BCA Student from India
-🤖 AI Voice Assistant Developer
-💻 Passionate about Automation & Real-Time Systems
+🚀 AI Developer | Python Enthusiast | Building Real-Time Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Building+Jarvis+🤖;Automation+Enthusiast" />
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **J.A.R.V.I.S AI Assistant**
-* 🌱 Learning **AI, Automation & System Design**
-* ⚡ Love building real-world projects instead of just theory
-* 🎯 Goal: Become a skilled Software / AI Developer
+* 🎓 BCA Student from India
+* 🤖 Built **J.A.R.V.I.S AI Voice Assistant**
+* ⚡ Love solving real-world problems with code
+* 🎯 Goal: Become a Software / AI Engineer
 
 ---
 
-## 🧠 Projects
+## 🧠 Featured Projects
 
-* 🤖 **J.A.R.V.I.S AI Assistant**
-  Voice-controlled assistant using LiveKit + Gemini API
+### 🤖 J.A.R.V.I.S AI Assistant
 
-* 🎮 **Arcade Game System**
-  Multiple mini-games with interactive UI
+* Voice-controlled AI using LiveKit + Gemini
+* Real-time conversation system
+* Smart media control (YouTube, VLC, Spotify)
+* Secure API handling
 
-* 🌐 **Web Development Projects**
-  Business & booking system websites
+---
+
+### 🎮 Arcade Game System
+
+* Multiple mini-games
+* Interactive gameplay
+* Built using Python
+
+---
+
+### 🌐 Web Projects
+
+* Business & booking system websites
+* UI-focused applications
 
 ---
 
@@ -46,9 +58,9 @@
 
 ## 🔥 What I'm Working On
 
-* Upgrading Jarvis with smart automation
-* Adding multi-app media control
-* Building advanced AI features
+* Upgrading Jarvis to smart AI assistant
+* Adding automation features
+* Building real-time applications
 
 ---
 
@@ -58,4 +70,4 @@
 
 ---
 
-⭐ *“Building things that actually work in real life.”*
+⭐ *“I build things that actually work — not just assignments.”*
