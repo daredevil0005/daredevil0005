@@ -2,7 +2,7 @@
 
 🚀 AI Developer | Python Enthusiast | Building Real-Time Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Building+Jarvis+🤖;Automation+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Web+Security+Expert;Python+Developer;Building+Jarvis+🤖;Automation+Enthusiast" />
 
 ---
 
