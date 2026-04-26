@@ -1,6 +1,6 @@
 # Hi, I'm Pratik 👋
 
-🚀 AI Developer | Python Enthusiast | Building Real-Time Systems
+🚀 Web Security Expert | AI Developer | Python Enthusiast | Building Real-Time Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Web+Security+Expert;Python+Developer;Building+Jarvis+🤖;Automation+Enthusiast" />
 
@@ -11,7 +11,7 @@
 * 🎓 BCA Student from India
 * 🤖 Built **J.A.R.V.I.S AI Voice Assistant**
 * ⚡ Love solving real-world problems with code
-* 🎯 Goal: Become a Software / AI Engineer
+* 🎯 Goal: Become Cyber Security Expert
 
 ---
 
