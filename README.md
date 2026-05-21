@@ -1,15 +1,20 @@
 # Hi, I'm Pratik 👋
 
-🚀 Web Security Expert | AI Developer | Python Enthusiast | Building Real-Time Systems
+🚀 AI Developer | Cybersecurity Enthusiast | Python Developer | Building Real-Time Systems
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Cybersecurity+Enthusiast;Building+JARVIS+🤖;Real-Time+Systems+Developer" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 BCA Student from India
-* 🤖 Built **J.A.R.V.I.S AI Voice Assistant**
-* ⚡ Love solving real-world problems with code
-* 🎯 Goal: Become Cyber Security Expert
+* 🤖 Built **J.A.R.V.I.S AI Voice Assistant** using LiveKit + Gemini
+* 🛡️ Passionate about Cybersecurity & Automation
+* ⚡ Love building real-world projects with practical applications
+* 🎯 Goal: Become a Cyber Security Expert & AI Engineer
 
 ---
 
@@ -17,50 +22,86 @@
 
 ### 🤖 J.A.R.V.I.S AI Assistant
 
-* Voice-controlled AI using LiveKit + Gemini
-* Real-time conversation system
+* Real-time AI voice assistant
 * Smart media control (YouTube, VLC, Spotify)
-* Secure API handling
+* Voice automation & memory system
+* Secure API handling using `.env`
 
 ---
 
-### 🎮 Arcade Game System
+### 🛡️ PhishShield AI
 
-* Multiple mini-games
-* Interactive gameplay
-* Built using Python
+* Hybrid phishing detection system
+* Chrome extension + Flask backend
+* Rule-based + Machine Learning detection
 
 ---
 
-### 🌐 Web Projects
+### 🎮 Arcade Games Platform
 
-* Arcade games
-* Gemini clone
-* UI-focused applications
+* Collection of browser-based arcade games
+* Interactive gameplay & responsive UI
+* Built using HTML, CSS, and JavaScript
+
+---
+
+### 🤖 Gemini Clone UI
+
+* Modern AI chat interface inspired by Gemini
+* Responsive and clean frontend design
+* Ready for real AI API integration
 
 ---
 
 ## 🛠 Tech Stack
 
-* 💻 Python | JavaScript
-* ⚙️ LiveKit | Gemini API
-* 🌐 HTML | CSS
-* 🛢 Git & GitHub
+### 💻 Languages
+
+* Python
+* Java
+* C & C++
+* MySQL
+* JavaScript
+* HTML5 / CSS3
+
+### ⚙️ Technologies & Tools
+
+* LiveKit
+* Gemini API
+* Flask
+* Git & GitHub
+* WebRTC
+* Node.js
+* VS Code
+* Cursor
+* AntiGravity
+* XAMPP
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=daredevil0005\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daredevil0005&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daredevil0005&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-## 🔥 What I'm Working On
+## 🔥 Contribution Streak
 
-* Upgrading Jarvis to smart AI assistant
-* Adding automation features
-* Building real-time applications
-* Building Cyber Security Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+* Upgrading J.A.R.V.I.S with advanced AI features
+* Building cybersecurity tools & automation systems
+* Exploring real-time communication systems
+* Improving full-stack development skills
 
 ---
 
@@ -70,4 +111,11 @@
 
 ---
 
-⭐ *“I build things that actually work — not just assignments.”*
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=daredevil0005\&color=blue)
+
+---
+
+⭐ *“I build projects that solve real problems — not just assignments.”*
+
