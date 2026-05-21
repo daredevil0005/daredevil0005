@@ -82,8 +82,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daredevil0005&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daredevil0005&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daredevil0005&show_icons=true&theme=github_dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daredevil0005&layout=compact&theme=github_dark" height="180em"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=github-dark&hide_border=true" />
 </p>
 
 ---
