@@ -2,10 +2,6 @@
 
 🚀 AI Developer | Cybersecurity Enthusiast | Python Developer | Building Real-Time Systems
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Cybersecurity+Enthusiast;Building+JARVIS+🤖;Real-Time+Systems+Developer" />
-</p>
-
 ---
 
 ## 🚀 About Me
