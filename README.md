@@ -1,16 +1,16 @@
 # Hi, I'm Pratik 👋
 
-🚀 AI Developer | Cybersecurity Enthusiast | Python Developer | Building Real-Time Systems
+🚀 Python Developer | AI & Cybersecurity Enthusiast | Building Real-World Projects
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BCA Student from India
-* 🤖 Built **J.A.R.V.I.S AI Voice Assistant** using LiveKit + Gemini
-* 🛡️ Passionate about Cybersecurity & Automation
-* ⚡ Love building real-world projects with practical applications
-* 🎯 Goal: Become a Cyber Security Expert & AI Engineer
+* 🎓 Final Year BCA Student from India
+* 💻 Passionate about Python Development, Cybersecurity, and AI Systems
+* 🤖 Building intelligent applications using Gemini AI, LiveKit, Flask, and modern web technologies
+* 🛡️ Interested in Cybersecurity, Automation, AI Security, and Application Security
+* 🎯 Goal: Become a Cybersecurity Professional specializing in AI Security
 
 ---
 
@@ -18,83 +18,113 @@
 
 ### 🤖 J.A.R.V.I.S AI Assistant
 
-* Real-time AI voice assistant
+A real-time AI voice assistant powered by Gemini AI and LiveKit.
+
+**Key Features**
+
+* Real-time voice conversations
 * Smart media control (YouTube, VLC, Spotify)
-* Voice automation & memory system
-* Secure API handling using `.env`
+* Memory and automation capabilities
+* Secure API key management
+* Modern web interface
+
+**Tech Stack:** Python, LiveKit, Gemini API, WebRTC
+
+---
+
+### 🛡️ Trinetra AI – Cybersecurity Intelligence Agent
+
+An AI-powered cybersecurity investigation platform designed to analyze domains, URLs, and security indicators.
+
+**Key Features**
+
+* Threat intelligence analysis
+* Risk scoring and verdict generation
+* Investigation dashboard
+* AI-assisted security insights
+* Flask-based architecture
+
+**Tech Stack:** Python, Flask, Gemini AI, HTML, CSS, JavaScript
 
 ---
 
 ### 🛡️ PhishShield AI
 
-* Hybrid phishing detection system
-* Chrome extension + Flask backend
-* Rule-based + Machine Learning detection
+A phishing detection platform combining machine learning and rule-based analysis.
+
+**Key Features**
+
+* URL threat analysis
+* Chrome Extension integration
+* Flask backend
+* Machine Learning support
+* Security-focused design
+
+**Tech Stack:** Python, Flask, Scikit-Learn, JavaScript
 
 ---
 
 ### 🎮 Arcade Games Platform
 
-* Collection of browser-based arcade games
-* Interactive gameplay & responsive UI
-* Built using HTML, CSS, and JavaScript
+A collection of browser-based arcade games with responsive design and interactive gameplay.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-### 🤖 Gemini Clone UI
+### 🤖 Gemini Clone
 
-* Modern AI chat interface inspired by Gemini
-* Responsive and clean frontend design
-* Ready for real AI API integration
+A Gemini-inspired AI chat interface with modern UI and API integration.
+
+**Tech Stack:** HTML, CSS, JavaScript, Gemini API
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### Programming Languages
 
 * Python
 * Java
-* C & C++
-* MySQL
+* C
+* C++
 * JavaScript
-* HTML5 / CSS3
+* SQL
 
-### ⚙️ Technologies & Tools
+### Frameworks & Technologies
 
-* LiveKit
-* Gemini API
 * Flask
-* Git & GitHub
+* Gemini API
+* LiveKit
 * WebRTC
 * Node.js
+
+### Tools
+
+* Git
+* GitHub
 * VS Code
 * Cursor
-* AntiGravity
 * XAMPP
+* VirtualBox
 
 ---
 
 ## 🚀 Currently Working On
 
-* Upgrading J.A.R.V.I.S with advanced AI features
-* Building cybersecurity tools & automation systems
-* Exploring real-time communication systems
-* Improving full-stack development skills
+* Enhancing J.A.R.V.I.S AI Assistant
+* Developing Trinetra AI Cybersecurity Agent
+* Learning DSA, OOP, Flask, and REST APIs
+* Exploring AI Security and Application Security
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/daredevil0005
+GitHub: https://github.com/daredevil0005
 
 ---
 
-## 👀 Profile Views
+⭐ “I build projects that solve real-world problems and continuously improve my skills through hands-on development.”
 
-![](https://komarev.com/ghpvc/?username=daredevil0005\&color=blue)
-
----
-
-⭐ *“I build projects that solve real problems — not just assignments.”*
 
