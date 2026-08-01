@@ -2,6 +2,12 @@
 
 🚀 Python Developer | AI & Cybersecurity Enthusiast | Building Real-World Projects
 
+![Stars](https://img.shields.io/github/stars/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge)
+![License](https://img.shields.io/github/license/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge)
+
 ---
 
 ## 🚀 About Me
