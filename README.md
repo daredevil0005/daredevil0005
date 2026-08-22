@@ -10,10 +10,8 @@ Building intelligent AI systems, cybersecurity tools, and real-world automation 
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/daredevil0005?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/daredevil0005/J.A.R.V.I.S-V1.0?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/daredevil0005?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/daredevil0005/daredevil0005?style=for-the-badge" />
 </p>
 
 ---
@@ -22,83 +20,43 @@ Building intelligent AI systems, cybersecurity tools, and real-world automation 
 
 🎓 Final Year BCA Student from India
 
-💻 Passionate about Python Development, Artificial Intelligence, and Cybersecurity
+💻 Passionate about **Python Development, Artificial Intelligence, and Cybersecurity**
 
-🤖 I enjoy building practical AI applications that combine conversational intelligence, automation, and security.
+🤖 I enjoy building practical AI applications that combine **intelligence, automation, real-time systems, and security**.
 
 🛡️ My primary interests include:
 
-- Artificial Intelligence
-- Cybersecurity
-- AI Security
-- Application Security
-- Backend Development
-- System Automation
+* Artificial Intelligence
+* Cybersecurity
+* AI Security
+* Application Security
+* Backend Development
+* System Automation
+* AI Agents
 
 🎯 **Career Goal**
 
-Become a Cybersecurity Professional specializing in **AI Security** while building intelligent applications that solve real-world problems.
+Become a Cybersecurity Professional specializing in **AI Security** while building intelligent systems that solve real-world problems.
 
 ---
 
-# 🧠 Featured Projects
+# 🧠 What I Build
 
-## 🤖 J.A.R.V.I.S AI Voice Assistant
+I focus on building practical software rather than only learning through tutorials.
 
-A real-time AI-powered voice assistant built using **Google Gemini AI** and **LiveKit**.
+My projects explore areas such as:
 
-### Features
+🤖 AI-powered applications and assistants
 
-- 🎤 Real-time voice conversations
-- 🧠 AI-powered responses
-- ⚙️ Windows automation
-- 🎵 Smart media control
-- 🌐 Google Search integration
-- 🧾 Persistent memory system
-- 🔊 Natural voice responses
-- 🌍 Modern web interface
+🛡️ Cybersecurity and threat detection tools
 
-**Tech Stack**
+⚡ Automation and intelligent systems
 
-Python • LiveKit • Gemini AI • Next.js • WebRTC • Node.js
+🌐 Full-stack AI applications
 
----
+🔐 Application and AI security
 
-## 🛡️ Trinetra AI
-
-An AI-powered Cybersecurity Intelligence Agent designed to investigate URLs, domains, and IP addresses through a modern dashboard.
-
-### Features
-
-- URL investigation
-- Domain analysis
-- IP analysis
-- Risk scoring
-- Investigation history
-- Interactive dashboard
-- AI-assisted cybersecurity insights
-
-**Tech Stack**
-
-Python • Flask • SQLAlchemy • Gemini AI • HTML • CSS • JavaScript
-
----
-
-## 🎣 PhishShield AI
-
-A hybrid phishing detection platform combining rule-based analysis and machine learning.
-
-### Features
-
-- Chrome Extension
-- URL reputation analysis
-- Machine Learning detection
-- Flask backend
-- Real-time phishing analysis
-
-**Tech Stack**
-
-Python • Flask • Machine Learning • JavaScript • Chrome Extension
+🎙️ Real-time voice and communication systems
 
 ---
 
@@ -106,115 +64,114 @@ Python • Flask • Machine Learning • JavaScript • Chrome Extension
 
 ## Programming Languages
 
-- Python
-- Java
-- C
-- C++
-- JavaScript
-- SQL
-- HTML
-- CSS
+* Python
+* Java
+* C
+* C++
+* JavaScript
+* SQL
+* HTML
+* CSS
 
 ---
 
 ## Backend Development
 
-- Flask
-- REST APIs
-- SQLite
+* Flask
+* REST APIs
+* SQLite
+* Node.js
 
 ---
 
 ## AI & Machine Learning
 
-- Google Gemini API
-- LiveKit
-- AI Agents
-- Prompt Engineering
-- Generative AI
+* Google Gemini API
+* Generative AI
+* AI Agents
+* Prompt Engineering
+* Machine Learning
+* LiveKit
 
 ---
 
 ## Cybersecurity
 
-- Application Security
-- AI Security
-- Network Fundamentals
-- Threat Intelligence
-- Phishing Detection
+* Application Security
+* AI Security
+* Network Fundamentals
+* Threat Intelligence
+* Phishing Detection
+* Security Automation
 
 ---
 
 ## Tools & Technologies
 
-- Git
-- GitHub
-- VS Code
-- Cursor
-- Docker
-- VirtualBox
-- XAMPP
-- Node.js
-- npm
-- pnpm
+* Git
+* GitHub
+* Docker
+* VS Code
+* Cursor
+* VirtualBox
+* XAMPP
+* npm
+* pnpm
+* WebRTC
 
 ---
 
-# 🌱 Currently Learning
+# 🚀 Current Focus
 
-I'm continuously improving my skills in:
+I'm currently focused on:
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- REST API Development
-- AI Agents
-- Application Security
-- AI Security
-- Modern Backend Development
+* 🤖 Building intelligent AI assistants and applications
+* 🛡️ Developing cybersecurity tools
+* 🔐 Exploring AI Security and Application Security
+* ⚡ Improving Python backend development
+* 🌐 Building full-stack AI applications
+* 🧠 Learning AI Agents and Generative AI
+* 📚 Strengthening DSA and Object-Oriented Programming
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daredevil0005&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daredevil0005&layout=compact&theme=tokyonight" height="170"/>
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=tokyonight" />
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 📈 GitHub Activity
 
-- 🤖 Building intelligent AI assistants
-- 🛡️ Developing cybersecurity tools
-- ⚡ Backend engineering with Python
-- 🌐 Full-stack AI applications
-- 🚀 Open Source Contributions
+I use GitHub to document my development journey, experiment with new technologies, and build projects that help me develop practical engineering and cybersecurity skills.
 
 ---
 
 # 📫 Connect With Me
 
-**GitHub**
-
-https://github.com/daredevil0005
-
-**LinkedIn**
-
-www.linkedin.com/in/pratik-dabhane-b4a680414
+<p align="center">
+  <a href="https://github.com/daredevil0005">
+    <img src="https://img.shields.io/badge/GitHub-daredevil0005-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/pratik-dabhane-b4a680414/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Dabhane-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-# 💡 Quote
+# 💡 Philosophy
 
 > *"I believe the best way to learn is by building. Every project is an opportunity to solve a real problem, explore new technologies, and grow as an engineer."*
 
 ---
 
-⭐ **Thanks for visiting my profile! If you like my work, consider starring my repositories and following my journey.**
-
+⭐ **Thanks for visiting my profile!**
 
