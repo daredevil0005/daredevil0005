@@ -143,7 +143,7 @@ I'm currently focused on:
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" />
+  <img src="./profile/streak.svg" height="170" />
 </p>
 
 ---
