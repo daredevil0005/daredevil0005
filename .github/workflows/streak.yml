@@ -1,0 +1,33 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Generate Streak Stats
+        uses: be-next/github-readme-streak-stats@v1.1.0
+        with:
+          username: daredevil0005
+          output-path: profile/streak.svg
+          theme: tokyonight
+          timezone: Asia/Kolkata
+
+      - name: Commit Streak Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update GitHub streak" || exit 0
+          git push
