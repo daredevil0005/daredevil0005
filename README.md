@@ -143,7 +143,7 @@ I'm currently focused on:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daredevil0005&theme=tokyonight" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
