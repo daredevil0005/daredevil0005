@@ -17,12 +17,13 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Generate Streak Stats
-        uses: be-next/github-readme-streak-stats@v1.1.0
+        uses: be-next/github-streak-stats-action@v1
         with:
-          username: daredevil0005
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           output-path: profile/streak.svg
           theme: tokyonight
-          timezone: Asia/Kolkata
+          hide-border: true
 
       - name: Commit Streak Stats
         run: |
