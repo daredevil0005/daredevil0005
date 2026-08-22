@@ -138,12 +138,12 @@ I'm currently focused on:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="100" />
-  <img src="./profile/top-langs.svg" height="100" />
+  <img src="./profile/stats.svg" height="130" />
+  <img src="./profile/top-langs.svg" height="130" />
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg" height="100" />
+  <img src="./profile/streak.svg" height="130" />
 </p>
 
 ---
