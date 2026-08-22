@@ -1,4 +1,5 @@
 name: Update GitHub Streak
+name: Update GitHub Streak
 
 on:
   schedule:
