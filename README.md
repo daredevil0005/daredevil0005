@@ -1,11 +1,11 @@
 # Hi, I'm Pratik 👋
 
 <h3 align="center">
-🚀 Python Developer • AI Developer • Cybersecurity Enthusiast
+🐍 Python Developer • 🤖 AI Developer • 🛡️ Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent AI systems, cybersecurity tools, and real-world automation projects.
+I build practical Python applications, AI-powered tools, and cybersecurity projects while continuously improving my development skills.
 </p>
 
 <p align="center">
@@ -18,45 +18,30 @@ Building intelligent AI systems, cybersecurity tools, and real-world automation 
 
 # 🚀 About Me
 
-🎓 Final Year BCA Student from India
+🎓 MCA Student
 
-💻 Passionate about **Python Development, Artificial Intelligence, and Cybersecurity**
+💻 I'm primarily focused on **Python development, AI applications, and cybersecurity**.
 
-🤖 I enjoy building practical AI applications that combine **intelligence, automation, real-time systems, and security**.
+🤖 I enjoy building projects that combine software development with AI, automation, and security.
 
-🛡️ My primary interests include:
+🛡️ I'm particularly interested in understanding how applications work, how they can be secured, and how AI can be used to build useful developer and cybersecurity tools.
 
-* Artificial Intelligence
-* Cybersecurity
-* AI Security
-* Application Security
-* Backend Development
-* System Automation
-* AI Agents
-
-🎯 **Career Goal**
-
-Become a Cybersecurity Professional specializing in **AI Security** while building intelligent systems that solve real-world problems.
+Most of my learning comes from **building projects, debugging real problems, experimenting with technologies, and contributing to open-source projects**.
 
 ---
 
 # 🧠 What I Build
 
-I focus on building practical software rather than only learning through tutorials.
+My projects currently focus on:
 
-My projects explore areas such as:
-
-🤖 AI-powered applications and assistants
-
-🛡️ Cybersecurity and threat detection tools
-
-⚡ Automation and intelligent systems
-
-🌐 Full-stack AI applications
-
-🔐 Application and AI security
-
-🎙️ Real-time voice and communication systems
+* 🐍 Python applications
+* 🤖 AI-powered applications
+* 🎙️ AI voice assistants
+* 🛡️ Cybersecurity tools
+* 🔐 Phishing detection systems
+* ⚡ Automation tools
+* 🌐 Web applications and APIs
+* 🔧 Developer experiments and open-source contributions
 
 ---
 
@@ -65,44 +50,50 @@ My projects explore areas such as:
 ## Programming Languages
 
 * Python
+* JavaScript
 * Java
 * C
 * C++
-* JavaScript
 * SQL
 * HTML
 * CSS
 
 ---
 
-## Backend Development
+## Python & Backend
 
+* Python
+* Object-Oriented Programming
 * Flask
+* SQLAlchemy
 * REST APIs
 * SQLite
-* Node.js
 
 ---
 
-## AI & Machine Learning
+## AI & APIs
 
 * Google Gemini API
 * Generative AI
-* AI Agents
 * Prompt Engineering
-* Machine Learning
+* AI Application Development
 * LiveKit
+* WebRTC
+
+> Currently learning more about AI agents, Generative AI, and AI Security.
 
 ---
 
 ## Cybersecurity
 
-* Application Security
-* AI Security
-* Network Fundamentals
-* Threat Intelligence
+* Web Security Fundamentals
 * Phishing Detection
+* Network Fundamentals
 * Security Automation
+* Application Security
+* Cybersecurity Labs
+
+> Currently exploring AI Security and Application Security in greater depth.
 
 ---
 
@@ -111,27 +102,107 @@ My projects explore areas such as:
 * Git
 * GitHub
 * Docker
+* VirtualBox
+* Kali Linux
+* Termux
 * VS Code
 * Cursor
-* VirtualBox
-* XAMPP
+* GitHub Desktop
 * npm
 * pnpm
-* WebRTC
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Featured Projects
 
-I'm currently focused on:
+## 🤖 J.A.R.V.I.S AI Voice Assistant
 
-* 🤖 Building intelligent AI assistants and applications
-* 🛡️ Developing cybersecurity tools
-* 🔐 Exploring AI Security and Application Security
-* ⚡ Improving Python backend development
-* 🌐 Building full-stack AI applications
-* 🧠 Learning AI Agents and Generative AI
-* 📚 Strengthening DSA and Object-Oriented Programming
+A real-time AI voice assistant built with Python, Google Gemini, and LiveKit.
+
+### Features
+
+* 🎙️ Real-time voice interaction
+* 🤖 AI-powered conversations
+* ⚙️ System automation
+* 🎵 Media control
+* 🌐 Web search
+* 🖼️ Image search
+* 🧠 Memory storage and recall
+* 🌐 Browser-based interface
+
+### Tech Stack
+
+`Python` `Gemini` `LiveKit` `WebRTC` `Node.js` `JavaScript`
+
+---
+
+## 🛡️ PhishShield AI
+
+A phishing detection project combining rule-based analysis and machine learning to identify potentially malicious URLs.
+
+### Features
+
+* 🔍 URL analysis
+* 🛡️ Rule-based detection
+* 🤖 Machine learning-based detection
+* 🌐 Flask backend
+* 🧩 Chrome extension
+* 📊 Security analysis
+
+### Tech Stack
+
+`Python` `Flask` `Machine Learning` `JavaScript` `Chrome Extension`
+
+---
+
+## 👁️ Trinetra AI
+
+A cybersecurity intelligence project designed to analyze security-related indicators and provide investigation results through a web interface.
+
+### Features
+
+* 🔎 Security investigation
+* 🌐 Web dashboard
+* 📊 Investigation history
+* 🤖 Gemini integration
+* 🗄️ Database-backed results
+
+### Tech Stack
+
+`Python` `Flask` `SQLAlchemy` `SQLite` `Gemini API` `JavaScript`
+
+---
+
+# 📚 Currently Learning
+
+I'm currently strengthening my fundamentals and expanding my practical skills in:
+
+* 🐍 Advanced Python
+* 🧱 Object-Oriented Programming
+* 🧠 Data Structures & Algorithms
+* 🌐 Flask & REST APIs
+* 🤖 Generative AI
+* 🧩 AI Agents
+* 🛡️ Application Security
+* 🔐 AI Security
+* 🐳 Docker
+* 🔧 Linux & cybersecurity tools
+
+---
+
+# 🛠️ Development Approach
+
+I prefer learning by building.
+
+Instead of only following tutorials, I try to:
+
+* Build projects from scratch
+* Debug real-world problems
+* Read documentation
+* Experiment with new technologies
+* Improve existing projects
+* Work with APIs and third-party services
+* Use Git and GitHub to document my work
 
 ---
 
@@ -150,7 +221,15 @@ I'm currently focused on:
 
 # 📈 GitHub Activity
 
-I use GitHub to document my development journey, experiment with new technologies, and build projects that help me develop practical engineering and cybersecurity skills.
+I use GitHub to document my development journey, experiment with technologies, build projects, and share what I learn.
+
+You'll find projects related to:
+
+🐍 Python Development  
+🤖 AI Applications  
+🛡️ Cybersecurity  
+🌐 Web Development  
+⚡ Automation  
 
 ---
 
@@ -160,6 +239,7 @@ I use GitHub to document my development journey, experiment with new technologie
   <a href="https://github.com/daredevil0005">
     <img src="https://img.shields.io/badge/GitHub-daredevil0005-181717?style=for-the-badge&logo=github" />
   </a>
+
   <a href="https://www.linkedin.com/in/pratik-dabhane-b4a680414/">
     <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Dabhane-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -169,9 +249,8 @@ I use GitHub to document my development journey, experiment with new technologie
 
 # 💡 Philosophy
 
-> *"I believe the best way to learn is by building. Every project is an opportunity to solve a real problem, explore new technologies, and grow as an engineer."*
+> "I believe the best way to learn is by building. Every project gives me an opportunity to solve problems, understand new technologies, and improve my skills."
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
+⭐ Thanks for visiting my profile!
