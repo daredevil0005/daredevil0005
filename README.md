@@ -50,13 +50,13 @@ My projects currently focus on:
 ## Programming Languages
 
 * Python
-* JavaScript
 * Java
 * C
 * C++
 * SQL
 * HTML
 * CSS
+*  JavaScript
 
 ---
 
@@ -65,7 +65,6 @@ My projects currently focus on:
 * Python
 * Object-Oriented Programming
 * Flask
-* SQLAlchemy
 * REST APIs
 * SQLite
 
@@ -78,7 +77,6 @@ My projects currently focus on:
 * Prompt Engineering
 * AI Application Development
 * LiveKit
-* WebRTC
 
 > Currently learning more about AI agents, Generative AI, and AI Security.
 
