@@ -1,7 +1,7 @@
 # Hi, I'm Pratik 👋
 
 <h3 align="center">
-🐍 Python Developer • 🤖 AI Developer • 🛡️ Cybersecurity Enthusiast
+🐍 Python Developer • 🛡️ Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
@@ -47,51 +47,25 @@ My projects currently focus on:
 
 # 💻 Technical Skills
 
-## Programming Languages
+## Programming Languages & Concepts
 
 * Python
 * Java
 * C
 * C++
 * SQL
-* HTML
-* CSS
-*  JavaScript
-
----
-
-## Python & Backend
-
-* Python
+* Data Structures & Algorithms
 * Object-Oriented Programming
-* Flask
-* REST APIs
-* SQLite
 
 ---
 
-## AI & APIs
-
-* Google Gemini API
-* Generative AI
-* Prompt Engineering
-* AI Application Development
-* LiveKit
-
-> Currently learning more about AI agents, Generative AI, and AI Security.
-
----
-
-## Cybersecurity
+## Cybersecurity Skills
 
 * Web Security Fundamentals
-* Phishing Detection
-* Network Fundamentals
-* Security Automation
-* Application Security
+* Networking Fundamentals
+* Linux Fundamentals
 * Cybersecurity Labs
-
-> Currently exploring AI Security and Application Security in greater depth.
+* Scripting & Automation
 
 ---
 
@@ -108,7 +82,6 @@ My projects currently focus on:
 * GitHub Desktop
 * npm
 * pnpm
-
 ---
 
 # 🚀 Featured Projects
@@ -201,6 +174,7 @@ Instead of only following tutorials, I try to:
 * Improve existing projects
 * Work with APIs and third-party services
 * Use Git and GitHub to document my work
+* Use AI-assisted development tools responsibly to speed up experimentation and development
 
 ---
 
