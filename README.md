@@ -53,19 +53,9 @@ My projects currently focus on:
 * Java
 * C
 * C++
-* SQL
 * Data Structures & Algorithms
 * Object-Oriented Programming
-
----
-
-## Cybersecurity Skills
-
 * Web Security Fundamentals
-* Networking Fundamentals
-* Linux Fundamentals
-* Cybersecurity Labs
-* Scripting & Automation
 
 ---
 
@@ -76,12 +66,10 @@ My projects currently focus on:
 * Docker
 * VirtualBox
 * Kali Linux
-* Termux
 * VS Code
 * Cursor
-* GitHub Desktop
-* npm
-* pnpm
+* Antigravity
+  
 ---
 
 # 🚀 Featured Projects
